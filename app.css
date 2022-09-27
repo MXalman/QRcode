@@ -8,7 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    Background:hsl(220, 15%, 55%);
+    background-color: #D5E1EF;
 }
 
 .container{
@@ -16,7 +16,7 @@ body{
     height: 450px;
     background:white;
     border-radius:10px;
-    margin-top: 110px;
+    margin-top: 130px;
 }
 
 img{
@@ -27,7 +27,7 @@ img{
     margin-bottom:20px;
 }
 
-.para{
+h1{
     font-size:18px;
     margin: 10px;
     margin-top: 0;
@@ -35,10 +35,11 @@ img{
     font-weight: 700;
 }
 
-.para p{
+p{
     font-weight: 400;
     font-size:15px;
     margin: 10px;
+    text-align: center;
 }
 
 
